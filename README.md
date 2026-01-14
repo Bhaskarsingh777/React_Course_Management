@@ -8,3 +8,8 @@ Add Course
 
 
 <img width="1366" height="768" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/6b87ab31-05af-4588-8bdc-21ea1d25b9b7" />
+
+
+View Course
+
+![3](https://github.com/user-attachments/assets/95631dc1-215c-4568-9c7e-dcc6f05ef757)
